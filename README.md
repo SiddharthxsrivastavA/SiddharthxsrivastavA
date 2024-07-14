@@ -1,6 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGsEED3VLJLbg/profile-displaybackgroundimage-shrink_350_1400/0/1689306362454?e=1726704000&v=beta&t=5Mk0xcGsB0RlSZhQ9-ZPftj31w10eSV9GWsZr4qBeRk)
 <h1 align="center">Hi 👋, I'm Siddharth Srivastava</h1>
 <h3 align="center">A Passionate Web Developer & Coding Enthusiast from India, Currently study in Punjab Engineering College, Chandigarh.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthxsrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthxsrivastava" /> </p>
 
