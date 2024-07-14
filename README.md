@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGsEED3VLJLbg/profile-displaybackgroundimage-shrink_350_1400/0/1689306362454?e=1726704000&v=beta&t=5Mk0xcGsB0RlSZhQ9-ZPftj31w10eSV9GWsZr4qBeRk)]
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGsEED3VLJLbg/profile-displaybackgroundimage-shrink_350_1400/0/1689306362454?e=1726704000&v=beta&t=5Mk0xcGsB0RlSZhQ9-ZPftj31w10eSV9GWsZr4qBeRk)
 <h1 align="center">Hi 👋, I'm Siddharth Srivastava</h1>
 <h3 align="center">A Passionate Web Developer & Coding Enthusiast from India, Currently study in Punjab Engineering College, Chandigarh.</h3>
 
